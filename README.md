@@ -1,6 +1,6 @@
-# fabienb4:autoform-semantic-ui
+# nooitaf:autoform-semantic-ui
 
-> **I am looking for someone to take over this package, if you are interested in maintaining it, please send me an email.**
+> quick fork of fabienb4:autoform-semantic-ui
 
 Semantic-ui template for `aldeed:autoform` package.
 
@@ -24,7 +24,7 @@ Semantic-ui template for `aldeed:autoform` package.
 In your Meteor app directory:
 
 ```
-$ meteor add aldeed:autoform fabienb4:autoform-semantic-ui
+$ meteor add aldeed:autoform nooitaf:autoform-semantic-ui
 ```
 
 ## Usage
@@ -261,7 +261,3 @@ MIT
 ## Contributing
 
 Anyone is welcome to contribute. Fork, make your changes (test them!), and then submit a pull request.
-
-Bitcoin: `34o6GtZPvVXparT46Zw2kfdxex2SWRpkGS`
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/fabienb4/)
