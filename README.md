@@ -1,6 +1,6 @@
 # nooitaf:autoform-semantic-ui
 
-> quick fork of fabienb4:autoform-semantic-ui
+> quick fork of [fabienb4:autoform-semantic-ui](https://github.com/fabienb4/meteor-autoform-semantic-ui)
 
 Semantic-ui template for `aldeed:autoform` package.
 
